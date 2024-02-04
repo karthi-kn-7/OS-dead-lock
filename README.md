@@ -1,5 +1,10 @@
 # OS-dead-lock
+
 DINNING PHILOSOPHER PROBLEM code in c (without deadlock)
+Peterson solution
+Reader Writer problem
+Producer Consumer problem
+
 please note you can't run these programs on windows
 you will be able to run only on linux os
 
